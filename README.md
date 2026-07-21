@@ -12,13 +12,13 @@ A full-stack Todo application designed to manage daily tasks efficiently. This p
 ## 🛠️ Tech Stack
 
 **Frontend:**
-- HTML, CSS, JavaScript (or React / Next.js)
+- HTML, CSS, JavaScript (MERN stack)
 
 **Backend:**
-- Node.js, Express (or Python / Django / Java)
+- Node.js, Express 
 
 **Database:**
-- MongoDB (or MySQL / PostgreSQL)
+- MongoDB 
 
 ## 📁 Project Structure
 
@@ -61,10 +61,10 @@ npm start    # (Or open index.html in your browser)
 
 | Method | Endpoint | Description |
 | :--- | :--- | :--- |
-| `GET` | `/api/todos` | Fetch all todo items |
-| `POST` | `/api/todos` | Create a new todo item |
-| `PUT` | `/api/todos/:id` | Update an existing todo |
-| `DELETE` | `/api/todos/:id` | Delete a todo item |
+| `GET` | `/api/tasks` | Fetch all todo items |
+| `POST` | `/api/tasks` | Create a new todo item |
+| `PUT` | `/api/tasks/:id` | Update an existing todo |
+| `DELETE` | `/api/tasks/:id` | Delete a todo item |
 
 ---
 *Created as part of a technical assignment by [Darshu236](https://github.com).*
